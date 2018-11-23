@@ -1,5 +1,6 @@
 # KubeGene
 [![CircleCI](https://circleci.com/gh/kubegene/kubegene.svg?style=svg)](https://circleci.com/gh/kubegene/kubegene)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene?ref=badge_shield)
 
 ## What is KubeGene
 The KubeGene is dedicated to making genome sequencing process simple, portable and scalable. It provides a complete solution for genome sequencing on the kubernetes and supports mainstream biological genome sequencing scenarios such as DNA, RNA, and liquid biopsy. KubeGene is based on lightweight container technology and official standard algorithms. You can make a flexible and customizable genome sequencing process by using KubeGene.
@@ -35,3 +36,7 @@ bash build/release.sh
 >
 >  components.gene.kubedag.yaml  executions.gene.kubedag.yaml
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene?ref=badge_large)
